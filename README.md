@@ -5,7 +5,7 @@ This repository contains the Jupyter Notebook for implementing memory recall and
 ### The primary frameworks used here include:
 * Torch - To build the MHN and VAE
 * Numpy - Linear algebra
-* os - file management
+* os - File management
 
 ## The Objective
 The purpose of this code is to emulate the working of the human brain, including the short-term memory recall of the hippocampus, memory consolidation as seen in the neocortex, and the process of hippocampal replay, i.e., the training of the neocortex to understand the latent space better and store long-term memory.
