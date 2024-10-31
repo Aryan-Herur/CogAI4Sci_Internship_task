@@ -18,5 +18,5 @@ The purpose of this code is to emulate the working of the human brain, including
 4. Now random noisy inputs are fed to the MHN to reconstruct an image (Recall by the Hippocampus) and to the VAE for the same purpose (Recall by the Neocortex).
 
 ## The Official Paper and Repository
-The official paper can be found [here](https://www.nature.com/articles/s41562-023-01799-z).
+The official paper can be found [here](https://www.nature.com/articles/s41562-023-01799-z).  
 The official GitHub repository for this paper can be found [here](https://github.com/ellie-as/generative-memory).
