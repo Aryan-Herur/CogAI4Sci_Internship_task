@@ -1,5 +1,5 @@
 # CogAI4Sci_Internship_task
-This repository contains the Jupyter Notebook for implementing memory recall and consolidation using a Modern Hopfield Network and a VAE as detailed in the work "A Generative Model of Memory Construction and Consolidation."
+This repository contains the Jupyter Notebook for implementing memory recall and consolidation using a Modern Hopfield Network and a VAE as detailed in the work "***A Generative Model of Memory Construction and Consolidation***."
 
 ## Tools Used
 ### The primary frameworks used here include:
