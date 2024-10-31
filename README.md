@@ -16,4 +16,6 @@ The purpose of this code is to emulate the working of the human brain, including
 2. 40,000 samples of Gaussian noise are fed to the MHN to generate stored memories.
 3. A Variational Auto Encoder (VAE) is trained on these memories to reconstruct the original images, thereby learning the latent space. (Memory Consolidation)
 4. Now random noisy inputs are fed to the MHN to reconstruct an image (Recall by the Hippocampus) and to the VAE for the same purpose (Recall by the Neocortex)
-   
+
+## The Official Repository
+The official GitHub repository for this paper can be found [here](https://github.com/ellie-as/generative-memory)
